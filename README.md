@@ -27,12 +27,12 @@ In this project, I undertook a series of essential steps, each playing a crucial
 
 
 <h1>The Analysis:</h1>
-In exploring the data, my initial question revolved around <strong>the impact of income on bicycle purchases</strong>. To decipher this correlation, I utilized Excel's capabilities to construct a pivot table, highlighting the average income for customers who made a purchase and those who did not, segmented by gender. <storng>Notably, the findings underscored a trend where, on average, males tend to have higher incomes, contributing to their increased likelihood of purchasing bicycles</storng>.
+- In exploring the data, my initial question revolved around <strong>the impact of income on bicycle purchases</strong>. To decipher this correlation, I utilized Excel's capabilities to construct a pivot table, highlighting the average income for customers who made a purchase and those who did not, segmented by gender. <storng>Notably, the findings underscored a trend where, on average, males tend to have higher incomes, contributing to their increased likelihood of purchasing bicycles</storng>.
 
-Following that, I directed my attention toward determining <strong>the age brackets with the highest rates of bicycle purchases</strong>. And it's noted tha <strong>the Middle Age bracket has the highest number of purchases, by far.</strong>
+- Following that, I directed my attention toward determining <strong>the age brackets with the highest rates of bicycle purchases</strong>. And it's noted tha <strong>the Middle Age bracket has the highest number of purchases, by far.</strong>
 
-Finally, I delved into understanding <strong>the distances customers are willing to commute </strong>for a bicycle purchase, a pivotal aspect for the business.The data unmistakably indicates that <strong>customers who travel the shortest distances are more inclined to purchase bikes.</strong>
+- Finally, I delved into understanding <strong>the distances customers are willing to commute </strong>for a bicycle purchase, a pivotal aspect for the business.The data unmistakably indicates that <strong>customers who travel the shortest distances are more inclined to purchase bikes.</strong>
 
-Finally, I crafted an Excel-powered dashboard incorporating pivot charts along with the addition of slicers. This functionality enables the breakdown of data by <strong>marital status, region, and education levels</strong>. The resulting dashboard serves as a robust tool for decision-makers, offering actionable insights into customer behavior, preferences, and demographic trends. Ultimately, it contributes to the formulation of well-informed business strategies in the realm of bike sales.
+- Finally, I crafted an Excel-powered dashboard incorporating pivot charts along with the addition of slicers. This functionality enables the breakdown of data by <strong>marital status, region, and education levels</strong>. The resulting dashboard serves as a robust tool for decision-makers, offering actionable insights into customer behavior, preferences, and demographic trends. Ultimately, it contributes to the formulation of well-informed business strategies in the realm of bike sales.
  
 
